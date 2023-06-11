@@ -28,7 +28,6 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-
 ### VS Code ###
 .vscode/
 
